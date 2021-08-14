@@ -11,3 +11,5 @@ A simple logic game in python created by following a tutorial
 ## References
 
 - [tinypng](https://tinypng.com/)
+
+- [lucid chart](https://www.lucidchart.com)
