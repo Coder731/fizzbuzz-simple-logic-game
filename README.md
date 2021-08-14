@@ -17,3 +17,7 @@ A simple logic game in python created by following a tutorial
 - [tinypng](https://tinypng.com/)
 
 - [lucid chart](https://www.lucidchart.com)
+
+### Stack Exchange
+
+- [How do you check whether a number is divisible by another number (Python)?](https://stackoverflow.com/questions/8002217/how-do-you-check-whether-a-number-is-divisible-by-another-number-python)
