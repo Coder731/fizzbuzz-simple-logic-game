@@ -4,9 +4,13 @@
 
 A simple logic game in python created by following a tutorial
 
-## Logic Flow Chart
+## Iterations of Logic Flow Chart
 
-- ![logic flow chart](assets/images/logic_flowchart_tiny.png)
+- logic flow chart 1 ![logic flow chart 1](assets/images/logic_flowchart_tiny.png)
+
+- The logic in the chart above never gets to check if a number is divisible by both 3 and 5, as it exits at "Is num divisible by 3" in that case.
+
+- logic flow chart 2 ![logic flow chart 2](assets/images/logic_flowchart_tiny2.png)
 
 ## References
 
