@@ -1,11 +1,9 @@
 num = 2
-if isinstance(num/3, (int, long))
-
-if (num/3 and num/5):
+if num%3 == 0 and num%5 == 0:
     print("FizzBuzz")
-elif (num/3):
+elif (num%3 == 0):
     print("Fizz")
-elif (num/5):
+elif (num % 5 == 0):
     print("Buzz")
 else:
     print(num)
